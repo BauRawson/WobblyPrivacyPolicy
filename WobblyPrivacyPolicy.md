@@ -1,54 +1,75 @@
 # Privacy Policy for POP POP!
 
-**Last updated: August 16, 2026**
+**Last updated: August 17, 2026**
 
-POP POP! respects your privacy. This Privacy Policy explains what information may be collected when you play the game and how it is used.
+POP POP! is a game developed and published by **Wobbly**.
+
+This Privacy Policy explains what information may be collected when you play POP POP! and how that information is used.
 
 ## Information We Collect
 
-POP POP! does not require you to create an account or provide personal information such as your name, email address, age, or address.
+POP POP! does not require users to create an account or provide personal information such as a name, email address, age, or precise location.
 
-The game may collect limited, anonymous gameplay analytics, such as:
+We may collect limited, non-personal gameplay and technical information for analytics purposes, including:
 
-* Which levels are started or completed
-* How far players progress through the game
-* Basic gameplay events used to understand how the game is being played
+* Levels started and completed
+* Gameplay progression
+* Gameplay events and interactions
+* Session duration
+* Basic technical information necessary for analytics and game operation
 
-This information is used only to understand game performance and improve the player experience.
+This information is used to understand how players interact with the game, identify problems, and improve the gameplay experience.
 
-We do not intentionally collect information such as your name, email address, age, precise location, contacts, photos, or other personally identifying information.
+## GameAnalytics
 
-## Analytics
+POP POP! uses **GameAnalytics** to collect and process limited gameplay analytics.
 
-Anonymous gameplay analytics may be processed using analytics services integrated into the game. These services may automatically process limited technical information necessary to provide analytics.
+GameAnalytics may process technical information necessary to provide its analytics service. We do not use GameAnalytics to intentionally collect names, email addresses, precise location, or other information that directly identifies players.
 
-We use analytics only to understand general gameplay behavior, such as where players progress or stop playing.
+For more information about how GameAnalytics processes data, please see the GameAnalytics Privacy Policy:
 
-## Advertising
+https://gameanalytics.com/privacy/
 
-POP POP! may display advertising if advertising services are included in the version of the game you are using.
+## How We Use Information
 
-Advertising providers may process information according to their own privacy policies. Where required, consent or other privacy controls may be presented to the user.
+Analytics information is used solely to:
 
-## Children's Privacy
-
-POP POP! does not intentionally ask players to provide personal information.
-
-If you believe that personal information from a child has been collected through the game, please contact us so that we can investigate and take appropriate action.
-
-## Data Sharing
+* Understand how POP POP! is played
+* Measure gameplay progression and engagement
+* Identify gameplay issues
+* Improve levels, features, balance, and the overall player experience
 
 We do not sell players' personal information.
 
-Limited data may be processed by service providers used to operate, analyze, distribute, or monetize the game, subject to their respective privacy policies.
+## Third-Party Platforms
+
+POP POP! may be distributed through third-party gaming platforms such as Poki.
+
+These platforms may collect or process information according to their own privacy policies. Their data practices are separate from those of POP POP! and Wobbly.
+
+## Children's Privacy
+
+POP POP! is designed to be playable by a general audience, including younger players.
+
+We do not knowingly request or collect personal information such as names, email addresses, or precise location from children through the game.
+
+Analytics are used only to understand gameplay and improve the game.
+
+## Data Sharing
+
+We do not sell or rent player data.
+
+Limited analytics information may be processed by service providers such as GameAnalytics solely for the purposes described in this Privacy Policy.
 
 ## Changes to This Policy
 
-This Privacy Policy may be updated if the game's features, analytics, advertising, or data practices change. The latest version will be made available at this page.
+We may update this Privacy Policy if the game's features, analytics services, or legal requirements change.
+
+Any changes will be published on this page with an updated "Last updated" date.
 
 ## Contact
 
 If you have questions about this Privacy Policy, you can contact:
 
-**Wobbly Games**
-**Email:** playwobbly@gmail.com
+**Wobbly**
+**Email:** [playwobbly@gmail.com](mailto:playwobbly@gmail.com)
